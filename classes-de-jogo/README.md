@@ -11,7 +11,7 @@ Além disso, deve ter um método chamado atacar que deve atender os seguientes r
 - Aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
 - E no {ataque} deve seguir uma descrição diferente.
 
-### Conecimentos
+### Conhecimentos
 - Variáveis
 - Operadores
 - Estruturas de decisão

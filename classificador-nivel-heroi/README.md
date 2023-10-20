@@ -3,7 +3,7 @@
 ### Objetivo
 Criar um algoritmo que indicasse o nível do herói com base em seu nome, quantidade de experiência e patente em que ele se encontra.
 
-### Conecimentos
+### Conhecimentos
 - Variáveis
 - Operadores
 - Estruturas de decisão
